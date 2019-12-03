@@ -15,7 +15,7 @@
 # api: paddle.fluid
 # env: local
 # device: cpu
-# text：print-tensor
+# text: print-tensor
 
 import paddle.fluid as fluid
 import numpy as np
